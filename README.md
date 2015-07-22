@@ -1,18 +1,19 @@
 
 #MY LEETCODE 
 
-This project is the summary of my LeetCode progress.
+This project is the summary of my LeetCode progress.<br>
+All my code can found in [src/topic](https://github.com/seek4/MyLeetCode/tree/master/src/topic).<br>
+Also you can refer to [my blog](http://blog.csdn.net/hi_ugly) for more details.
 
-##SUMMARY
 
-###ing:
+###working:
 
 RegularExpressionMatching
 
 ###pending:
 
 
-###finished:
+###accepted:
 
 AddTwoNumbers<br>
 DivideTwoIntegers<br>
@@ -25,4 +26,7 @@ SlidingWindowMaximun<br>
 StringToIntergerAtoi<br>
 TwoSum<br>
 ZigZagConversion<br>
+
+####contact me
+E-mail:haoyunyangtong@gmail.com
 
