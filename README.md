@@ -11,7 +11,7 @@ Also you can refer to [my blog](http://blog.csdn.net/hi_ugly) for more details.
 RegularExpressionMatching
 
 ###pending:
-
+ThreeSum(Time Limit Exceed)
 
 ###accepted:
 
@@ -26,6 +26,7 @@ SlidingWindowMaximun<br>
 StringToIntergerAtoi<br>
 TwoSum<br>
 ZigZagConversion<br>
+PowerOfTwo<br>
 
 ####contact me
 E-mail:haoyunyangtong@gmail.com
